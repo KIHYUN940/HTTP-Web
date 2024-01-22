@@ -5,4 +5,5 @@
 [HTTP 메서드 POST, GET, PUT, PATCH, DELETE](https://kihyunhong.tistory.com/177)  
 [HTTP 메서드의 속성 / 안전, 멱등, 캐시가능](https://kihyunhong.tistory.com/178)  
 [HTTP 메서드 활용](https://kihyunhong.tistory.com/179)  
-[HTTP 상태코드](https://kihyunhong.tistory.com/180)
+[HTTP 상태코드](https://kihyunhong.tistory.com/180)  
+[HTTP 헤더 /표현, 인증, 쿠키](https://kihyunhong.tistory.com/181)
