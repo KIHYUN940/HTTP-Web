@@ -8,4 +8,5 @@
 [HTTP 상태코드](https://kihyunhong.tistory.com/180)  
 [HTTP 헤더 /표현, 인증, 쿠키](https://kihyunhong.tistory.com/181)  
 [XSS, XSRF 공격이란 / SameSite](https://kihyunhong.tistory.com/182)  
-[HTTP 헤더/ 캐시와 조건부 요청](https://kihyunhong.tistory.com/183)
+[HTTP 헤더/ 캐시와 조건부 요청](https://kihyunhong.tistory.com/183)  
+[HTTP - 프록시 캐시/ 캐시 무효화](https://kihyunhong.tistory.com/184)  
