@@ -11,3 +11,4 @@
 [HTTP 헤더/ 캐시와 조건부 요청](https://kihyunhong.tistory.com/183)  
 [HTTP - 프록시 캐시/ 캐시 무효화](https://kihyunhong.tistory.com/184)  
 [쿠키(Cookie)](https://kihyunhong.tistory.com/230)  
+[세션(Session)](https://kihyunhong.tistory.com/231)  
