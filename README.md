@@ -12,6 +12,7 @@
 [HTTP - 프록시 캐시/ 캐시 무효화](https://kihyunhong.tistory.com/184)  
 [쿠키(Cookie)](https://kihyunhong.tistory.com/230)  
 [세션(Session)](https://kihyunhong.tistory.com/231)  
+[쿠키와 세션](https://kihyunhong.tistory.com/249)  
 [TCP/UDP의 차이점](https://kihyunhong.tistory.com/247)  
 [OSI 7계층](https://kihyunhong.tistory.com/250)  
 [Restful API란?](https://kihyunhong.tistory.com/248)  
